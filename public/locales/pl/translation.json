@@ -1,0 +1,58 @@
+{
+  "header": {
+    "title": "Rideo",
+    "search": "Szukaj…",
+    "profile": "Profil",
+    "logout": "Wyloguj"
+  },
+  "sidebar": {
+    "dashboard": "Panel",
+    "drivers": "Kierowcy",
+    "fleetManagement": "Zarządzanie flotą",
+    "importData": "Import danych",
+    "financialReports": "Raporty finansowe"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Witaj na panelu!"
+  },
+  "drivers": {
+    "title": "Kierowcy",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "dateOfBirth": "Data urodzenia",
+    "passportData": "Dane paszportowe",
+    "phoneNumber": "Numer telefonu",
+    "email": "Email",
+    "status": "Status",
+    "statusActive": "Aktywny",
+    "statusTerminated": "Zakończony",
+    "statusSuspended": "Zawieszony",
+    "statusAwaitingAssignment": "Oczekuje na przypisanie",
+    "bankAccount": "Konto bankowe",
+    "pesel": "PESEL",
+    "terminationDate": "Data zakończenia",
+    "workPermitExpiry": "Data wygaśnięcia pozwolenia na pracę",
+    "actions": "Akcje"
+  },
+  "fleetManagement": {
+    "title": "Zarządzanie flotą",
+    "description": "Zarządzaj swoją flotą tutaj.",
+    "numberPlate": "Numer rejestracyjny",
+    "owner": "Właściciel",
+    "status": "Status",
+    "insuranceExpiry": "Termin ubezpieczenia",
+    "maintenanceExpiry": "Termin przeglądu",
+    "tenant": "Najemca",
+    "createdAt": "Utworzono",
+    "updatedAt": "Zaktualizowano"
+  },
+  "importData": {
+    "title": "Import danych",
+    "description": "Importuj dane do systemu."
+  },
+  "financialReports": {
+    "title": "Raporty finansowe",
+    "description": "Przeglądaj raporty finansowe."
+  }
+}

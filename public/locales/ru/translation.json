@@ -1,0 +1,58 @@
+{
+  "header": {
+    "title": "Rideo",
+    "search": "Поиск…",
+    "profile": "Профиль",
+    "logout": "Выйти"
+  },
+  "sidebar": {
+    "dashboard": "Панель управления",
+    "drivers": "Водители",
+    "fleetManagement": "Управление автопарком",
+    "importData": "Импорт данных",
+    "financialReports": "Финансовые отчеты"
+  },
+  "dashboard": {
+    "title": "Панель управления",
+    "welcome": "Добро пожаловать на панель управления!"
+  },
+  "drivers": {
+    "title": "Водители",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "dateOfBirth": "Дата рождения",
+    "passportData": "Паспортные данные",
+    "phoneNumber": "Номер телефона",
+    "email": "Электронная почта",
+    "status": "Статус",
+    "statusActive": "Активен",
+    "statusTerminated": "Уволен",
+    "statusSuspended": "Приостановлен",
+    "statusAwaitingAssignment": "Ожидает назначения",
+    "bankAccount": "Банковский счет",
+    "pesel": "ПЕСЕЛЬ",
+    "terminationDate": "Дата увольнения",
+    "workPermitExpiry": "Срок действия разрешения на работу",
+    "actions": "Действия"
+  },
+  "fleetManagement": {
+    "title": "Управление автопарком",
+    "description": "Управляйте вашим автопарком здесь.",
+    "numberPlate": "Номерной знак",
+    "owner": "Владелец",
+    "status": "Статус",
+    "insuranceExpiry": "Срок страховки",
+    "maintenanceExpiry": "Срок техобслуживания",
+    "tenant": "Арендатор",
+    "createdAt": "Создано",
+    "updatedAt": "Обновлено"
+  },
+  "importData": {
+    "title": "Импорт данных",
+    "description": "Импортируйте данные в систему."
+  },
+  "financialReports": {
+    "title": "Финансовые отчеты",
+    "description": "Просматривайте финансовые отчеты."
+  }
+}

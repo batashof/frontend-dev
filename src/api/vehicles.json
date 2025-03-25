@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "669e7e15-0933-460f-be12-14608b9a6e4d",
+    "created_at": "2025-02-17 21:14:20.375202 +00:00",
+    "updated_at": "2025-02-17 21:14:20.375219 +00:00",
+    "number_plate": "AB123CD",
+    "owner": "John Doe",
+    "status": "available",
+    "maintenance_expiry": "2025-02-17",
+    "insurance_expiry": "2025-02-17",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "789e7e15-0933-460f-be12-12308b9a6e4e",
+    "created_at": "2025-03-18 22:15:21.375202 +00:00",
+    "updated_at": "2025-03-18 22:15:21.375219 +00:00",
+    "number_plate": "EF456GH",
+    "owner": "Jane Smith",
+    "status": "in_use",
+    "maintenance_expiry": "2025-03-18",
+    "insurance_expiry": "2025-03-18",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "889e7e15-0933-460f-be12-12308b9a6e4f",
+    "created_at": "2025-04-19 23:16:22.375202 +00:00",
+    "updated_at": "2025-04-19 23:16:22.375219 +00:00",
+    "number_plate": "IJ789KL",
+    "owner": "Alice Johnson",
+    "status": "available",
+    "maintenance_expiry": "2025-04-19",
+    "insurance_expiry": "2025-04-19",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "989e7e15-0933-460f-be12-12308b9a6e4g",
+    "created_at": "2025-05-20 00:17:23.375202 +00:00",
+    "updated_at": "2025-05-20 00:17:23.375219 +00:00",
+    "number_plate": "MN012OP",
+    "owner": "Bob Brown",
+    "status": "in_maintenance",
+    "maintenance_expiry": "2025-05-20",
+    "insurance_expiry": "2025-05-20",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "a89e7e15-0933-460f-be12-12308b9a6e4h",
+    "created_at": "2025-06-21 01:18:24.375202 +00:00",
+    "updated_at": "2025-06-21 01:18:24.375219 +00:00",
+    "number_plate": "QR345ST",
+    "owner": "Charlie Davis",
+    "status": "available",
+    "maintenance_expiry": "2025-06-21",
+    "insurance_expiry": "2025-06-21",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "b89e7e15-0933-460f-be12-12308b9a6e4i",
+    "created_at": "2025-07-22 02:19:25.375202 +00:00",
+    "updated_at": "2025-07-22 02:19:25.375219 +00:00",
+    "number_plate": "UV678WX",
+    "owner": "Eva Green",
+    "status": "in_use",
+    "maintenance_expiry": "2025-07-22",
+    "insurance_expiry": "2025-07-22",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "c89e7e15-0933-460f-be12-12308b9a6e4j",
+    "created_at": "2025-08-23 03:20:26.375202 +00:00",
+    "updated_at": "2025-08-23 03:20:26.375219 +00:00",
+    "number_plate": "YZ901AB",
+    "owner": "Frank White",
+    "status": "available",
+    "maintenance_expiry": "2025-08-23",
+    "insurance_expiry": "2025-08-23",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "d89e7e15-0933-460f-be12-12308b9a6e4k",
+    "created_at": "2025-09-24 04:21:27.375202 +00:00",
+    "updated_at": "2025-09-24 04:21:27.375219 +00:00",
+    "number_plate": "CD234EF",
+    "owner": "Grace Hall",
+    "status": "in_maintenance",
+    "maintenance_expiry": "2025-09-24",
+    "insurance_expiry": "2025-09-24",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "e89e7e15-0933-460f-be12-12308b9a6e4l",
+    "created_at": "2025-10-25 05:22:28.375202 +00:00",
+    "updated_at": "2025-10-25 05:22:28.375219 +00:00",
+    "number_plate": "GH567IJ",
+    "owner": "Henry King",
+    "status": "available",
+    "maintenance_expiry": "2025-10-25",
+    "insurance_expiry": "2025-10-25",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "f89e7e15-0933-460f-be12-12308b9a6e4m",
+    "created_at": "2025-11-26 06:23:29.375202 +00:00",
+    "updated_at": "2025-11-26 06:23:29.375219 +00:00",
+    "number_plate": "KL890MN",
+    "owner": "Ivy Lee",
+    "status": "in_use",
+    "maintenance_expiry": "2025-11-26",
+    "insurance_expiry": "2025-11-26",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "g89e7e15-0933-460f-be12-12308b9a6e4n",
+    "created_at": "2025-12-27 07:24:30.375202 +00:00",
+    "updated_at": "2025-12-27 07:24:30.375219 +00:00",
+    "number_plate": "OP123QR",
+    "owner": "Jack Moore",
+    "status": "available",
+    "maintenance_expiry": "2025-12-27",
+    "insurance_expiry": "2025-12-27",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "h89e7e15-0933-460f-be12-12308b9a6e4o",
+    "created_at": "2026-01-28 08:25:31.375202 +00:00",
+    "updated_at": "2026-01-28 08:25:31.375219 +00:00",
+    "number_plate": "ST456UV",
+    "owner": "Karen Young",
+    "status": "in_maintenance",
+    "maintenance_expiry": "2026-01-28",
+    "insurance_expiry": "2026-01-28",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "i89e7e15-0933-460f-be12-12308b9a6e4p",
+    "created_at": "2026-02-29 09:26:32.375202 +00:00",
+    "updated_at": "2026-02-29 09:26:32.375219 +00:00",
+    "number_plate": "WX789YZ",
+    "owner": "Leo Scott",
+    "status": "available",
+    "maintenance_expiry": "2026-02-29",
+    "insurance_expiry": "2026-02-29",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "j89e7e15-0933-460f-be12-12308b9a6e4q",
+    "created_at": "2026-03-30 10:27:33.375202 +00:00",
+    "updated_at": "2026-03-30 10:27:33.375219 +00:00",
+    "number_plate": "AB012CD",
+    "owner": "Mia Allen",
+    "status": "in_use",
+    "maintenance_expiry": "2026-03-30",
+    "insurance_expiry": "2026-03-30",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  },
+  {
+    "uuid": "k89e7e15-0933-460f-be12-12308b9a6e4r",
+    "created_at": "2026-04-01 11:28:34.375202 +00:00",
+    "updated_at": "2026-04-01 11:28:34.375219 +00:00",
+    "number_plate": "EF345GH",
+    "owner": "Noah Clark",
+    "status": "available",
+    "maintenance_expiry": "2026-04-01",
+    "insurance_expiry": "2026-04-01",
+    "tenant_id": "e482061b-0cee-4171-80c3-779224c0aebc"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Tenant",
+    "search": "Search…",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "drivers": "Drivers",
+    "fleetManagement": "Fleet Management",
+    "importData": "Import Data",
+    "financialReports": "Financial Reports"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to the dashboard!"
+  },
+  "drivers": {
+    "title": "Drivers",
+    "name": "Name",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "dateOfBirth": "Date of Birth",
+    "passportData": "Passport Data",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "status": "Status",
+    "statusActive": "Active",
+    "statusTerminated": "Terminated",
+    "statusSuspended": "Suspended",
+    "statusAwaitingAssignment": "Awaiting Assignment",
+    "bankAccount": "Bank Account",
+    "pesel": "PESEL",
+    "terminationDate": "Termination Date",
+    "workPermitExpiry": "Work Permit Expiry",
+    "carNumber": "Car number"
+  },
+  "fleetManagement": {
+    "title": "Fleet Management",
+    "description": "Manage your fleet here.",
+    "numberPlate": "Number Plate",
+    "owner": "Owner",
+    "status": "Status",
+    "insuranceExpiry": "Insurance Expiry",
+    "maintenanceExpiry": "Maintenance Expiry",
+    "tenant": "Tenant",
+    "createdAt": "Created At",
+    "updatedAt": "Updated At"
+  },
+  "importData": {
+    "title": "Import Data",
+    "description": "Import data into the system."
+  },
+  "financialReports": {
+    "title": "Financial Reports",
+    "description": "View financial reports."
+  }
+}
